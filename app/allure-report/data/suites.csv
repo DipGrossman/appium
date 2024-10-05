@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4564","disableNetworkTest","","Sat Oct 05 17:50:25 MSK 2024","passed","Sat Oct 05 17:50:29 MSK 2024","","ru.otus.uiautomator.AppiumTest","ru.otus.uiautomator.AppiumTest","disableNetworkTest"
+"","6675","openDocTest","","Sat Oct 05 17:50:38 MSK 2024","passed","Sat Oct 05 17:50:44 MSK 2024","","ru.otus.uiautomator.AppiumTest","ru.otus.uiautomator.AppiumTest","openDocTest"
+"","5796","changeThemeTest","","Sat Oct 05 17:50:19 MSK 2024","passed","Sat Oct 05 17:50:25 MSK 2024","","ru.otus.uiautomator.AppiumTest","ru.otus.uiautomator.AppiumTest","changeThemeTest"
+"","8144","shareDocTest","","Sat Oct 05 17:50:29 MSK 2024","passed","Sat Oct 05 17:50:38 MSK 2024","","ru.otus.uiautomator.AppiumTest","ru.otus.uiautomator.AppiumTest","shareDocTest"

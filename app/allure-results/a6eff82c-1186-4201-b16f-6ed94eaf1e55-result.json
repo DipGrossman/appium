@@ -1,0 +1,50 @@
+{
+    "name": "openDocTest",
+    "start": 1728139838118,
+    "stop": 1728139844793,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "uuid": "a6eff82c-1186-4201-b16f-6ed94eaf1e55",
+    "historyId": "7d9d0cc7daee3c4d4eeb7130bd462e40",
+    "fullName": "ru.otus.uiautomator.AppiumTest.openDocTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.otus.uiautomator"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "openDocTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "host",
+            "value": "i111434848"
+        },
+        {
+            "name": "thread",
+            "value": "57743@i111434848.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
