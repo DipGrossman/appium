@@ -1,0 +1,50 @@
+{
+    "name": "disableNetworkTest",
+    "start": 1728139800088,
+    "stop": 1728139804692,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "uuid": "cf085fb2-3ac9-465c-8d5a-d2611737229a",
+    "historyId": "43f5f1f13adc70897d334a7565b5a36b",
+    "fullName": "ru.otus.uiautomator.AppiumTest.disableNetworkTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.otus.uiautomator"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "disableNetworkTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "host",
+            "value": "i111434848"
+        },
+        {
+            "name": "thread",
+            "value": "57526@i111434848.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

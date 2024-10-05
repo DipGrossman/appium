@@ -1,0 +1,50 @@
+{
+    "name": "shareDocTest",
+    "start": 1728139829970,
+    "stop": 1728139838114,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "uuid": "d2069be5-b15b-4ed5-b30d-38b491f6162c",
+    "historyId": "693d0a07de7f4e457c21cdf24c76e494",
+    "fullName": "ru.otus.uiautomator.AppiumTest.shareDocTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.otus.uiautomator"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shareDocTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "host",
+            "value": "i111434848"
+        },
+        {
+            "name": "thread",
+            "value": "57743@i111434848.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

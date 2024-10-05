@@ -3,8 +3,37 @@ plugins {
     id 'com.android.application' version '7.2.2' apply false
     id 'com.android.library' version '7.2.2' apply false
     id 'org.jetbrains.kotlin.android' version '1.9.0' apply false
+    id 'io.qameta.allure' version '2.11.2'
 }
 
 tasks.register('clean', Delete) {
     delete rootProject.buildDir
+}
+
+tasks.withType(Test).configureEach {
+    useJUnitPlatform()
+    systemProperties = System.properties
+    systemProperty('allure.results.directory', "$buildDir/allure-results")
+}
+
+tasks.named('allureReport') {
+    doLast {
+        println "Allure report generated at: ${project.buildDir}/allure-report"
+    }
+}
+
+
+allure {
+    version = '2.17.3'
+    useJUnit5 {
+        version = '2.17.3'
+    }
+    adapter {
+        aspectjWeaver.set(true)
+        frameworks {
+            junit5 {
+                adapterVersion.set("2.21.0")
+            }
+        }
+    }
 }

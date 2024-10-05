@@ -1,0 +1,50 @@
+{
+    "name": "changeThemeTest",
+    "start": 1728139793871,
+    "stop": 1728139800070,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "uuid": "bfccbb38-4292-43cf-88a5-b7e853ea71de",
+    "historyId": "7a1afc89eae9e846c65950bf502b6d4c",
+    "fullName": "ru.otus.uiautomator.AppiumTest.changeThemeTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.otus.uiautomator"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "changeThemeTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.otus.uiautomator.AppiumTest"
+        },
+        {
+            "name": "host",
+            "value": "i111434848"
+        },
+        {
+            "name": "thread",
+            "value": "57526@i111434848.Test worker(1)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
